@@ -30,7 +30,7 @@ This project serves as a practical application of iOS development skills, incorp
 
 ## UI Screenshot
 
-![image](https://github.com/Korede612/EggTimer/assets/109530097/2dd314f0-0e3c-46da-91f2-891632c25268)
+- ![image](https://github.com/Korede612/EggTimer/assets/109530097/2dd314f0-0e3c-46da-91f2-891632c25268)
 
 
 Feel free to explore, use, and customize the Egg Timer App based on your preferences. If you have any feedback or suggestions, I would love to hear from you.
